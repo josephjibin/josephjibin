@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hi there I'm Jibin Joseph 👋<br> An aspiring front-end developer. I enjoy learning new technologies and building responsive websites.<br>
+### Hi there I'm Jibin Joseph 👋<br> An aspiring cloud engineer. I enjoy learning new technologies and building responsive websites.<br>
 
 
 ## 🌐 Socials:
